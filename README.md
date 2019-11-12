@@ -1,7 +1,8 @@
 # mtcaptcha-selenium-demo-automated-ux-test-script
-A selenium demo script to provide example on how to write automated UX test scripts for MTCaptcha
+A demo script to provide example on how to write automated UI test scripts for MTCaptcha using Selenium.
 
-The corresponding test page can be found at (https://www.mtcaptcha.com/demo-selenium-script)
+The corresponding test page can be found at https://www.mtcaptcha.com/demo-selenium-script
 
-For full documentation on how to enable auomated testing, please see [MTCaptcha Developers Guide - Automated Testing](https://www.mtcaptcha.com/dev-guide-automated-testing)
+For full documentation on how to enable auomated testing with MTCaptcha, please see [MTCaptcha Developers Guide - Automated Testing](https://www.mtcaptcha.com/dev-guide-automated-testing)
 
+For more information on Selenium Browser Automation see https://www.seleniumhq.org/
